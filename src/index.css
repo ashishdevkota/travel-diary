@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+.header {
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.globe--logo {
+  font-size: 2rem;
+  margin-right: 5px;
+}
+
+.blog-name {
+  font-size: 2rem;
+  color: #fff;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+
+section {
+  padding: 10px 20px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+footer {
+  background: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+footer p {
+  padding: 20px;
+  color: #fff;
+  font-size: 1.1rem;
+}
