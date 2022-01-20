@@ -1,7 +1,7 @@
 import Card from "./Card";
-import data from "../Data";
 import { Link } from "react-router-dom";
-function Home() {
+
+function Home({ data }) {
   const homepagePost = data
     .filter((datas) => datas.id < 4)
     .map((item) => <Card key={item.id} {...item} />);
