@@ -1,5 +1,5 @@
 import Card from "./Card";
-import data from "../data";
+import data from "../Data";
 import { Link } from "react-router-dom";
 function Home() {
   const homepagePost = data

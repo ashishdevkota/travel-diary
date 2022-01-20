@@ -1,4 +1,4 @@
-export default [
+const Data = [
   {
     id: 1,
     title: "PREIKESTOLEN",
@@ -61,3 +61,5 @@ Its exhibitions show how offshore operations have become Norway’s most importa
     imageUrl: "../img/nidaros.jpeg",
   },
 ];
+
+export default Data;

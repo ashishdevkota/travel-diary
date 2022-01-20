@@ -1,4 +1,4 @@
-import data from "../data";
+import data from "../Data";
 import Card from "./Card";
 import "../card.css";
 const AllPost = () => {
