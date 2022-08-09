@@ -63,9 +63,19 @@ Its exhibitions show how offshore operations have become Norway’s most importa
       googleMapsUrl: "https://goo.gl/maps/g9VFeBstVaKAxMYm8",
       startDate: "12 Jan, 2021",
       endDate: "24 Jan, 2021",
-      description: `Nidaros Cathedral (Norwegian: Nidarosdomen / Nidaros Domkirke) is a cathedral of the Church of Norway located in the city of Trondheim in Trøndelag county. It is built over the burial site of King Olav II (c. 995–1030, reigned 1015–1028), who became the patron saint of the nation, and is the traditional location for the consecration of new kings of Norway. It was built over a 230-year period, from 1070 to 1300 when it was substantially completed. However additional work, additions and renovations have continued intermittently since then; the most recent changes were completed in 2001. Nidaros was designated as the cathedral for the Diocese of Nidaros in 1152. After experiencing the turmoil and controversies of the Protestant Reformation of the 16th century, it was taken from the Catholic Church by the newly established state Church of Norway in 1537, which adopted the teachings and reforms of Martin Luther, Phillip Melanchthon, and others, becoming an Evangelical Lutheran church. Nidaros is the northernmost medieval cathedral in the world.[
+      description: `Nidaros Cathedral (Norwegian: Nidarosdomen / Nidaros Domkirke) is a cathedral of the Church of Norway located in the city of Trondheim in Trøndelag county. It is built over the burial site of King Olav II (c. 995–1030, reigned 1015–1028), who became the patron saint of the nation, and is the traditional location for the consecration of new kings of Norway. It was built over a 230-year period, from 1070 to 1300 when it was substantially completed. However additional work, additions and renovations have continued intermittently since then; the most recent changes were completed in 2001. Nidaros was designated as the cathedral for the Diocese of Nidaros in 1152. After experiencing the turmoil and controversies of the Protestant Reformation of the 16th century, it was taken from the Catholic Church by the newly established state Church of Norway in 1537, which adopted the teachings and reforms of Martin Luther, Phillip Melanchthon, and others, becoming an Evangelical Lutheran church. Nidaros is the northernmost medieval cathedral in the world.
 `,
       imageUrl: "../img/nidaros.jpeg",
+    },
+    {
+      id: 6,
+      title: "Tyholttårnet",
+      location: "Trondheim,Norway",
+      googleMapsUrl: "https://goo.gl/maps/g9VFeBstVaKAxMYm8",
+      startDate: "12 Jan, 2021",
+      endDate: "24 Jan, 2021",
+      description: `Tyholttårnet is a 126 metre tall radio tower with an observation deck in Trondheim, Norway. With its 124-meter it is currently the tallest building in Norway. Tyholttårnet was built in 1985. The tower features a revolving restaurant, at an altitude of 81 metres, which makes one complete revolution per hour.`,
+      imageUrl: "../img/Tyholttårnet.jpg",
     },
   ];
 
