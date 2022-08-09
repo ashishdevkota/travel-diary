@@ -46,3 +46,11 @@ footer p {
   color: #fff;
   font-size: 1.1rem;
 }
+
+.home {
+  background: #f55a5a;
+  padding: 0.5em;
+  margin-left: 20px;
+  color: #fff;
+  text-decoration: none;
+}

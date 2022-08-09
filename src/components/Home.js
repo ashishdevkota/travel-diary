@@ -8,8 +8,9 @@ function Home({ data }) {
   return (
     <div>
       <section className="card-container">{homepagePost}</section>
-
-      <Link to="allpost">view all places</Link>
+      <Link className="home" to="allpost">
+        view all places
+      </Link>
     </div>
   );
 }
